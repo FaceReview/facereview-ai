@@ -12,12 +12,10 @@ public은 학습에 관여하지 않은 AIHub 데이터셋이고 private은 프�
 설문자들은 평균 약 79개의 이미지를 인식하였습니다.
 
 ## AI 예측 결과
-![AI_pred](https://github.com/FaceReview/facereview-ai/blob/master/img/AI.PNG)
+![AI](https://github.com/FaceReview/facereview-ai/blob/master/img/AI.PNG)
 
 
 AI 는 78개의 이미지를 인식하였습니다.
-
-surprise 와 neutral 감정에 대해 압도적인 인식률을 보인 것을 알 수 있습니다.
 
 ---
 ## Human vs AI
