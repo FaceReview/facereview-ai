@@ -23,16 +23,16 @@ surprise 와 neutral 감정에 대해 압도적인 인식률을 보인 것을 �
 ## Human vs AI
 다음은 AI 와 설문조사의 결과를 비교한 것입니다.
 
-![1]()
+![1](https://github.com/FaceReview/facereview-ai/blob/master/img/1.PNG)
 
-![2]()
+![2](https://github.com/FaceReview/facereview-ai/blob/master/img/2.PNG)
 
-![3]()
+![3](https://github.com/FaceReview/facereview-ai/blob/master/img/3.PNG)
 
-![4]()
+![4](https://github.com/FaceReview/facereview-ai/blob/master/img/4.PNG)
 
-![5]()
+![5](https://github.com/FaceReview/facereview-ai/blob/master/img/5.PNG)
 
-![6]()
+![6](https://github.com/FaceReview/facereview-ai/blob/master/img/6.PNG)
 
-![7]()
+![7](https://github.com/FaceReview/facereview-ai/blob/master/img/7.PNG)

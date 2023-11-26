@@ -17,7 +17,7 @@ AIHub에서 지원하는 한국인 표정 데이터셋 중 식별하기 어렵�
 ## 2. 학습 모델 ResNet50
 ResNet은 마이크로소프트에서 개발하여 2015년 [ILSVRC (ImageNet Large Scale Visual Recognition Challenge)](https://image-net.org/challenges/LSVRC/) 에서 우승을 차지한 알고리즘입니다.
 
-기존 CNN 이미지 인식 분야에서 모델의 성능 향상을 위해 layer 를 깊게 쌓는 방식을 채택하였는데, 실제로는 layer 가 20층 이상일 때 성능이 낮아지는 문제가 발견되었습니다. 이를 해결하기 위해 Residual Learning 을 사용하여 설계한 네트워크가 ResNet 입니다. 모델에 대한 자세한 설명은 [여기]() 있습니다.
+기존 CNN 이미지 인식 분야에서 모델의 성능 향상을 위해 layer 를 깊게 쌓는 방식을 채택하였는데, 실제로는 layer 가 20층 이상일 때 성능이 낮아지는 문제가 발견되었습니다. 이를 해결하기 위해 Residual Learning 을 사용하여 설계한 네트워크가 ResNet 입니다. 모델에 대한 자세한 설명은 [여기](https://github.com/FaceReview/facereview-ai/blob/master/docs/ResNET.pdf) 있습니다.
 
 ResNet 네트워크를 50층으로 설계한 것이 ResNet50, 152층으로 설계된 것이 ResNet152 입니다. 두 네트워크를 모두 구현하고 비교하여 최종 네트워크를 선택한 과정은 [여기]() 있습니다.
 
@@ -29,7 +29,7 @@ ResNet 네트워크를 50층으로 설계한 것이 ResNet50, 152층으로 설�
 
 각 이미지는 `preprocessing.py` 를 실행하여 얻어진 이미지이며, 각 표정 별 5,000장씩 동일하게 존재하여 표정 별 정확도를 알 수 있습니다.
 
-여러 모델을 비교하며 최종 모델을 얻기까지의 과정은 [여기]() 에서 확인할 수 있습니다.
+여러 모델을 비교하며 최종 모델을 얻기까지의 과정은 [여기](https://github.com/FaceReview/facereview-ai/blob/master/docs/performance.md) 에서 확인할 수 있습니다.
 
 추가로, 표정 별 정확도의 편차를 줄이기 위한 노력은 [여기]() 에서 확인할 수 있습니다.
 
@@ -45,10 +45,10 @@ public은 학습에 관여하지 않은 AIHub 데이터셋이고 private은 프�
 
 같은 데이터셋에 대하여 AI 모델은 78개의 표정을 인식하였습니다.
 
-셀문조사에 대한 자세한 결과는 [여기]() 에서 확인할 수 있습니다.
+셀문조사에 대한 자세한 결과는 [여기](https://github.com/FaceReview/facereview-ai/blob/master/docs/survey.md) 에서 확인할 수 있습니다.
 
 
-![survey]()
+![survey](https://github.com/FaceReview/facereview-ai/blob/master/img/google_form.PNG)
 
 ![AI]()
 
