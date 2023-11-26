@@ -7,12 +7,12 @@ public은 학습에 관여하지 않은 AIHub 데이터셋이고 private은 프�
 
 ---
 ## 설문조사 결과
-![google_form]()
+![google_form](https://github.com/FaceReview/facereview-ai/blob/master/img/google_form.PNG)
 
 설문자들은 평균 약 79개의 이미지를 인식하였습니다.
 
 ## AI 예측 결과
-![AI_pred]()
+![AI_pred](https://github.com/FaceReview/facereview-ai/blob/master/img/AI.PNG)
 
 
 AI 는 78개의 이미지를 인식하였습니다.
@@ -24,15 +24,21 @@ surprise 와 neutral 감정에 대해 압도적인 인식률을 보인 것을 �
 다음은 AI 와 설문조사의 결과를 비교한 것입니다.
 
 ![1](https://github.com/FaceReview/facereview-ai/blob/master/img/1.PNG)
+  
 
 ![2](https://github.com/FaceReview/facereview-ai/blob/master/img/2.PNG)
+  
 
 ![3](https://github.com/FaceReview/facereview-ai/blob/master/img/3.PNG)
+  
 
 ![4](https://github.com/FaceReview/facereview-ai/blob/master/img/4.PNG)
+  
 
 ![5](https://github.com/FaceReview/facereview-ai/blob/master/img/5.PNG)
+  
 
 ![6](https://github.com/FaceReview/facereview-ai/blob/master/img/6.PNG)
+  
 
 ![7](https://github.com/FaceReview/facereview-ai/blob/master/img/7.PNG)

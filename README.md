@@ -50,7 +50,7 @@ public은 학습에 관여하지 않은 AIHub 데이터셋이고 private은 프�
 
 ![survey](https://github.com/FaceReview/facereview-ai/blob/master/img/google_form.PNG)
 
-![AI]()
+![AI](https://github.com/FaceReview/facereview-ai/blob/master/img/AI.PNG)
 
 ## reference
 https://github.com/kitae0522/Facial-Expression-Recognition
